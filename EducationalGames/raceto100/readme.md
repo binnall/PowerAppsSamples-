@@ -1,11 +1,11 @@
-* Intro
+# Intro
 This is the Race to 100 educational game
 
-* Installation Instructions
+# Installation Instructions
 
 Download the .zip file and install into a Power Apps envrionment
 
-* Update questions
+# Update questions
 
 1. Download the excel spreadsheet called 'Questions'.
 2. Add / Remove questions you want to add. Note, the maximum difficulty is a value between 1 and 5
@@ -17,4 +17,4 @@ Download the .zip file and install into a Power Apps envrionment
 7. Select the Table called 'Questions'
 8. Save and Publish the Power App
 
-The questions shoudl now have been updated.
+The questions should now have been updated.
