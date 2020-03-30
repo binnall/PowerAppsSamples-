@@ -1,9 +1,9 @@
 * Intro
-This is teh Race to 100 educational game
+This is the Race to 100 educational game
 
 * Installation Instructions
 
-1. Download the .zip file and install into a Power Apps envrionment
+Download the .zip file and install into a Power Apps envrionment
 
 * Update questions
 
